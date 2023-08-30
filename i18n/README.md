@@ -12,7 +12,7 @@
 [![Downloads][downloads-badge]][releases]
 [![Stargazers][stars-shield]][stars-url]
 
-<a href="https://github.com/VIPORMiner/VIPORMiner/blob/main/README.md">简体中文</a>｜<a href="https://github.com/VIPORMiner/VIPORMiner/blob/main/i18n/zh_cn.md">English</a>
+<a href="https://github.com/TLSminer/VIPORMiner">简体中文</a>｜<a href="https://github.com/TLSminer/VIPORMiner/tree/main/i18n">English</a>
 
 
 (Partial Preview)
@@ -54,13 +54,13 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 
 
-[VIPORMiner.io]: https://github.com/VIPORMiner/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v0.0.1-green?logo=rust
+[VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.3.0-green?logo=rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/VIPORMiner/VIPORMiner/releases
-[stars-url]: https://github.com/VIPORMiner/VIPORMiner/stargazers
-[stars-shield]: https://img.shields.io/github/stars/VIPORMiner/VIPORMiner.svg?style=flat
-[stars-url]: https://github.com/VIPORMiner/VIPORMiner/stargazers
+[releases]: https://github.com/TLSminer/VIPORMiner/releases
+[stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
+[stars-shield]: https://img.shields.io/github/stars/TLSminer/VIPORMiner.svg?style=flat
+[stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
 
 # Installation 
 
@@ -74,7 +74,7 @@ For the supported algorithm, the corresponding currency will be updated without 
    > Run the following shell instructions to run the toolkit
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+   >  bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/VIPORMiner/main/install.sh)
    > ```
    >
    > After running successfully, you will see the following menu.
@@ -88,7 +88,7 @@ For the supported algorithm, the corresponding currency will be updated without 
    > Please download the specified version directly from the Windows directory of this project:
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+   > https://github.com/TLSminer/VIPORMiner/tree/main/windows
    > ```
    >
 
