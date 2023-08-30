@@ -25,7 +25,7 @@
 
 # Join the discussion group
 
-Telegram：<a href="https://t.me/+OiG7xOS-ZZg1ZDI1">https://t.me/+OiG7xOS-ZZg1ZDI1</a>
+Telegram：<a href="https://t.me/+LTl6C7TQAdBkZjM1">https://t.me/+LTl6C7TQAdBkZjM1</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
