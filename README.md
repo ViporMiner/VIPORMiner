@@ -53,7 +53,7 @@
 
 三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:
 
-<a href="https://github.com/VIPORMiner/VIPORMiner/blob/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a>
+<a href="https://github.com/TLSminer/VIPORMiner/blob/a55555eeb4cc3b3cee851d0acbb5cb68423418d7/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a>
 
 # 加入聊天组
 
