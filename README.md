@@ -13,7 +13,7 @@
 [![Downloads][downloads-badge]][releases]
 [![Stargazers][stars-shield]][stars-url]
 
-<a href="https://github.com/TLSminer/VIPORMiner">简体中文</a>｜<a href="https://github.com/VIPORMiner/VIPORMiner/blob/main/i18n/zh_en.md">English</a>
+<a href="https://github.com/TLSminer/VIPORMiner">简体中文</a>｜<a href="https://github.com/TLSminer/VIPORMiner/tree/main/i18n">English</a>
 
 强大且经验丰富的监控和记录系统可以立即解决矿场异常情况。
 
