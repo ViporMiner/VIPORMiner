@@ -54,7 +54,7 @@
 
 # 加入聊天组
 
-QQ群：<a href="https://t.me/VIPORMiner">https://t.me/VIPORMiner</a>
+Telegram：<a href="https://t.me/+LTl6C7TQAdBkZjM1">https://t.me/+LTl6C7TQAdBkZjM1</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
