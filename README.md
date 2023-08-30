@@ -13,7 +13,7 @@
 [![Downloads][downloads-badge]][releases]
 [![Stargazers][stars-shield]][stars-url]
 
-<a href="https://github.com/VIPORMiner/VIPORMiner/blob/main/README.md">简体中文</a>｜<a href="https://github.com/TLSminer/VIPORMiner/blob/1f7f9282722a7e43f838a8f5f8bbaa512ba3b94a/i18n/zh_en.md">English</a>
+<a href="https://github.com/VIPORMiner/VIPORMiner/blob/main/README.md">简体中文</a>｜<a href="https://github.com/VIPORMiner/VIPORMiner/blob/main/i18n/zh_en.md">English</a>
 
 强大且经验丰富的监控和记录系统可以立即解决矿场异常情况。
 
@@ -88,13 +88,13 @@ Telegram：<a href="https://t.me/VIPORMiner">https://t.me/VIPORMiner</a>
 VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
 
 
-[VIPORMiner.io]: https://github.com/VIPORMiner/VIPORMiner
+[VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
 [VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.3.0-green?logo=rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/VIPORMiner/VIPORMiner/releases
-[stars-url]: https://github.com/VIPORMiner/VIPORMiner/stargazers
-[stars-shield]: https://img.shields.io/github/stars/VIPORMiner/VIPORMiner.svg?style=flat
-[stars-url]: https://github.com/VIPORMiner/VIPORMiner/stargazers
+[releases]: https://github.com/TLSminer/VIPORMiner/releases
+[stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
+[stars-shield]: https://img.shields.io/github/stars/TLSminer/VIPORMiner.svg?style=flat
+[stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
 
 # 安装 
 
