@@ -178,7 +178,7 @@ VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求
 修复了部分etc机型无法连接的问题
 
 RMS客户端下载地址 （RMS客户端需要VIPORMiner版本> 3.3.0才能正常使用） 教程和linux版本的安装教程随后编写, windows直接下载windows目录里的二进制文件即可
-地址：https://github.com/VIPORMiner/RMS
+地址：https://github.com/TLSminer/RMS
 
 3.2.4已发布
 大幅提升当前支持的所有币种的算力统计及抽水的精准度
