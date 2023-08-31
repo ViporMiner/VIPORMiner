@@ -25,6 +25,8 @@
 
 # Join the discussion group
 
+QQ group:279505847
+
 Telegram：<a href="https://t.me/+LTl6C7TQAdBkZjM1">https://t.me/+LTl6C7TQAdBkZjM1</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
