@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.4.0"
-DOWNLOAD_HOST="https://github.com/TLSminer/VIPORMiner/tree/main/linux"
+DOWNLOAD_HOST="https://github.com/TLSminer/VIPORMiner/raw/main/linux"
 ORIGIN_EXEC="vipor-${VERSION}"
 
 SERVICE_NAME="viporservice"
