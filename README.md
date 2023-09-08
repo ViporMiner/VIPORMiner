@@ -56,7 +56,9 @@
 
 QQ群：279505847
 
-Telegram：<a href="https://t.me/+LTl6C7TQAdBkZjM1">https://t.me/+LTl6C7TQAdBkZjM1</a>
+# 本地加密安全客户端下载地址RMS
+
+https://github.com/TLSminer/RMS
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
@@ -406,23 +408,6 @@ e9pro完美优化, 且rust内可计算出与矿池一致的算力
 # 帮助
 
 <span id="dingzhi"></span>
-
-
-
-# 针对E9pro的一些优化措施
-
-- 请将端口配置上的e9pro优化打开，否则可能会导致算力消失
-
-<img src="/image/e9.png" alt="e9" width="600">
-
-- 同一台机器的后台配置里, 请将矿机后台的三个地址、钱包以及机器名设置为一样的配置
-- 或是只保留一条地址配置信息, 删除2和3的配置
-- 同一台机器的后台配置, 三个配置项请填写相同的信息, 不要填写不同地址或钱包和机器名，否则可能会导致算力消失
-- 例如:
-
-<img src="/image/e99.png" alt="e9" width="600">
-
-   
 
    
 # Other issues
