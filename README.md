@@ -66,6 +66,10 @@ Telegram：<a href="https://t.me/+LTl6C7TQAdBkZjM1">https://t.me/+LTl6C7TQAdBkZj
 
 <img src="/image/poolin.svg" alt="Logo" width="100">
 
+<img src="/image/5.png" alt="Logo" width="100">
+
+<img src="/image/6.png" alt="Logo" width="100">
+
 <p>感谢以上矿池在一定范围内提供了技术支持😊</p>
 
 # 支持的算法
