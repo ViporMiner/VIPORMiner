@@ -61,7 +61,7 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.4.1-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.5.0-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
@@ -141,6 +141,32 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 # Version Log
 ```
+3.5.0
+Re-reconstruct the pumping algorithm and the logic of the computing power statistics chart, and now you can draw accurate computing power regardless of any proportion, no longer because the larger the proportion is set, the more the less is pumped 
+ 
+Optimized the ks3 machine produced by ants 
+ 
+Added the kenc protocol as well as the socks5(next version open socks5) protocol, which can now be opened directly within rust 
+ 
+Increased CKB 
+ 
+Added ZEN 
+ 
+Added HNS 
+ 
+Added LBC 
+ 
+Fixed some bugs where the power statistics were not cleaned up due to upstream issues 
+ 
+Fixed a bug where port exceptions were not cleaned up after port conflicts 
+ 
+Turn off animation effects for smoother pages 
+ 
+Added a disconnected reconnection mechanism, and now frequently disconnected machines can also draw relevant computing power 
+ 
+The only inefficiencies are optimized
+
+
 3.4.1
 [Important Update] Fixed a critical BUG where BTC was not pumping enough water
 
