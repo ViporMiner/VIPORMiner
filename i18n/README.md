@@ -27,8 +27,6 @@
 
 QQ group:279505847
 
-Telegram：<a href="https://t.me/+LTl6C7TQAdBkZjM1">https://t.me/+LTl6C7TQAdBkZjM1</a>
-
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
 # Special thanks
@@ -36,6 +34,12 @@ Telegram：<a href="https://t.me/+LTl6C7TQAdBkZjM1">https://t.me/+LTl6C7TQAdBkZj
 <img src="/image/icon-logo-blue.png" alt="Logo" width="100">
 
 <img src="/image/poolin.svg" alt="Logo" width="100">
+
+<img src="/image/5.png" alt="Logo" width="100">
+
+<img src="/image/6.png" alt="Logo" width="100">
+
+<img src="/image/bitmain.webp" alt="Logo" width="100">
 
 <p>Thanks for the technical support provided by the mine pool😊</p>
 
@@ -137,6 +141,9 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 # Version Log
 ```
+3.4.1
+[Important Update] Fixed a critical BUG where BTC was not pumping enough water
+
 3.4.0
 Rebuilt the computing power statistics, and now the statistical accuracy of computing power in rust has been greatly improved 
  
