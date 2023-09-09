@@ -96,7 +96,7 @@ VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.4.1-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.5.0-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
@@ -177,6 +177,32 @@ VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求
 
 # 更新日志
 ```
+3.5.0
+再次重构抽水算法及算力统计图表逻辑, 现在不管任何比例都能抽到精准算力, 不再因为比例设置越大, 少抽的越多
+
+优化了蚂蚁出产的ks3机器
+
+增加了kenc协议以及socks5(下版本开放socks5)协议, 现在可以直接在rust内开启这些协议
+
+增加了CKB
+
+增加了ZEN
+
+增加了HNS
+
+增加了LBC
+
+修复了一些因为上游问题导致的算力统计没有清理掉的bug
+
+修复了端口冲突后, 端口异常报错没有被清理掉的bug
+
+关闭了动画效果 页面更流畅
+
+增加了断线重连机制, 现在频繁断开的机器也能抽到相关算力
+
+优化了仅有的一些无效率
+
+
 3.4.1
 [重要更新] 修复了BTC抽水不够的严重BUG
 
