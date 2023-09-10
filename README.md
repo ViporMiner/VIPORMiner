@@ -74,6 +74,7 @@ https://github.com/TLSminer/RMS
 
 <img src="/image/bitmain.webp" alt="Logo" width="100">
 
+<img src="/image/7.png" alt="Logo" width="100">
 <p>感谢以上矿池在一定范围内提供了技术支持😊</p>
 
 # 支持的算法
