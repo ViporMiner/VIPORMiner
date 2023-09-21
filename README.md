@@ -100,7 +100,7 @@ VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.6.0-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.6.1-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
@@ -181,6 +181,9 @@ VIPORMiner受香港法律监管。请注意，不同国家/地区的法律要求
 
 # 更新日志
 ```
+   3.6.1
+   修复了3.6.0的显示bug, 有时候设备列表内的矿机不显示（不影响正常使用）
+
    3.6.0
    增加了后台https访问, 可在设置 -> https后台访问中设置, 
    或着从安装脚本中进行设置, 设置完后需要重启软件, 重启后需要使用指定协议(http或https访问)
