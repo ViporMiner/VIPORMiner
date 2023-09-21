@@ -141,6 +141,42 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 # Version Log
 ```
+3.6.0
+
+Added backend HTTPS access, which can be set in Settings ->HTTPS backend access,
+
+Alternatively, you can set it from the installation script. After setting it up, you need to restart the software and use the specified protocol (HTTP or HTTPS access) after restarting
+
+Add offline reminder
+
+Add IP blacklist function
+
+Fix a bug where the wallet replacement function cannot be cleared
+
+Provide a prompt for wallet redirection in the device list for replaced wallets
+
+The time computing power statistics on the device list page can now be calculated for any time period according to your own choice
+
+Added computing power protection switches for kas and eth, which can be turned on or off at your own discretion in the editing port
+
+After turning off computing power protection, precise computing power can be extracted, but customer computing power is not protected
+
+Added a switch for ETH concurrent optimization, which needs to be turned off for gtv66 models and is enabled by default
+
+Stability improvement optimizes the problem of explosive connection numbers in the event of simultaneous instability of the mining pool and mining machine with minimal probability
+
+Fixed a small bug related to RMS, which caused the RMS mining machine to not come in for half a day while editing the Rust port
+
+Added logs for all IP access
+
+The IP in the port log and device log can now be clicked for related operations
+
+Added more prompts
+
+Greatly optimize page smoothness
+
+Page detail optimization
+
 3.5.0
 Re-reconstruct the pumping algorithm and the logic of the computing power statistics chart, and now you can draw accurate computing power regardless of any proportion, no longer because the larger the proportion is set, the more the less is pumped 
  
