@@ -61,7 +61,7 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.6.0-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.6.1-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
@@ -141,6 +141,10 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 # Version Log
 ```
+3.6.1
+
+Fixed display bug in 3.6.0, sometimes mining machines in the device list do not display (does not affect normal use)
+
 3.6.0
 
 Added backend HTTPS access, which can be set in Settings ->HTTPS backend access,
