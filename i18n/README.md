@@ -61,7 +61,7 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.6.1-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.7.0-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
@@ -141,6 +141,22 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 # Version Log
 ```
+3.7.0
+
+Interface modification
+
+Optimized BTC small computing power ancient firmware, does not support cross pool pumping machines if cross pool addresses are configured
+
+Then these machines automatically pump water from the same pool
+
+Add custom mining pool wallet
+
+Add preset mining pool address (can be hot updated at any time)
+
+Add replication port function
+
+New hardware monitoring
+
 3.6.1
 
 Fixed display bug in 3.6.0, sometimes mining machines in the device list do not display (does not affect normal use)
