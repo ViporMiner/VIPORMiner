@@ -141,6 +141,14 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 # Version Log
 ```
+3.7.1 Published
+
+Performance optimization, significantly improving hardware utilization, reducing memory and CPU usage
+
+Significantly improve device access speed
+
+Optimize performance monitoring for more accurate memory and CPU statistics
+
 3.7.0
 
 Interface modification
