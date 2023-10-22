@@ -61,7 +61,7 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.7.1-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.7.2-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
@@ -141,6 +141,12 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 # Version Log
 ```
+3.7.2
+
+Optimize the models with different firmware in the entire batch of gtv66 and e9pro. Now, both types of models can run on the same port and solve related invalidity and all related bugs
+
+The DNX pumping restriction has been lifted, but pumping is currently not allowed as the official and mining pool have not verified the lifting according to the announced time. Pumping will be started after the subsequent mining pool announcement
+
 3.7.1 Published
 
 Performance optimization, significantly improving hardware utilization, reducing memory and CPU usage
