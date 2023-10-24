@@ -50,7 +50,7 @@
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
    ```sh
-      bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/VIPORMiner/main/install.sh)
+      bash <(curl -s -L https://raw.githubusercontent.com/ViporMiner/VIPORMiner/main/install.sh)
    ```
    
    <p>&emsp;&emsp;成功运行后，您将看到以下菜单, 根据提示安装即可。</p>
@@ -69,7 +69,7 @@
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
    ```sh
-     https://github.com/TLSminer/VIPORMiner/tree/main/windows
+     https://github.com/VIPORMiner/VIPORMiner/tree/main/windows
    ```
 
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
