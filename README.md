@@ -607,7 +607,7 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
 ### 👉 **定制专属版本说明**
 
-   <p>&emsp;&emsp;1. 加入聊天群组 <a href="https://t.me/CakeSystem">https://t.me/CakeSystem</a></p>
+   <p>&emsp;&emsp;1. 加入聊天群组 ：279505847
    <p>&emsp;&emsp;2. 请整理以下格式数据发给群主或管理员：</p>
 
    ```text
