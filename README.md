@@ -74,7 +74,7 @@
 
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
 
-   <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
+   <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx   xloqslz913</p>
 
    </td>
    </tr>   
