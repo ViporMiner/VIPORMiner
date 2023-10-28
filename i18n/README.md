@@ -12,7 +12,7 @@
 [![Downloads][downloads-badge]][releases]
 [![Stargazers][stars-shield]][stars-url]
 
-<a href="https://github.com/TLSminer/VIPORMiner">简体中文</a>｜<a href="https://github.com/TLSminer/VIPORMiner/tree/main/i18n">English</a>
+<a href="https://github.com/viporminer/VIPORMiner">简体中文</a>｜<a href="https://github.com/viporminer/VIPORMiner/tree/main/i18n">English</a>
 
 
 (Partial Preview)
@@ -61,7 +61,7 @@ For the supported algorithm, the corresponding currency will be updated without 
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.7.2-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.7.3-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
@@ -80,7 +80,7 @@ For the supported algorithm, the corresponding currency will be updated without 
    > Run the following shell instructions to run the toolkit
    >
    > ```sh
-   >  bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/VIPORMiner/main/install.sh)
+   >  bash <(curl -s -L https://raw.githubusercontent.com/viporminer/VIPORMiner/main/install.sh)
    > ```
    >
    > After running successfully, you will see the following menu.
@@ -94,7 +94,7 @@ For the supported algorithm, the corresponding currency will be updated without 
    > Please download the specified version directly from the Windows directory of this project:
    >
    > ```sh
-   > https://github.com/TLSminer/VIPORMiner/tree/main/windows
+   > https://github.com/viporminer/VIPORMiner/tree/main/windows
    > ```
    >
 
