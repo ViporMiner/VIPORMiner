@@ -59,6 +59,20 @@
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
+   <p>&emsp;&emsp;ARM版本请使用以下命令进行安装</p>
+   
+   &emsp;&emsp;ARM:
+
+   ```sh
+     bash <(curl -s -L https://raw.githubusercontent.com/ViporMiner/VIPORMiner/main/arm-install.sh)
+   ```
+
+   &emsp;&emsp;ARMV7:
+
+   ```sh
+     bash <(curl -s -L https://raw.githubusercontent.com/ViporMiner/VIPORMiner/main/armv7-install.sh)
+   ```
+
    </td>
    </tr>
    <tr>
