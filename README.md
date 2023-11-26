@@ -218,6 +218,69 @@
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
+3.8.0
+增加了对 NEXA CLORE NEURAI NEOXA ZIL 
+CLO UBQ EGAZ ELH AVS CAU PAC PWR 
+BTN DUBX XPB REDEV2 RTH 
+这些币种的支持
+
+开放了群控功能
+
+优化矿机显示在线时长逻辑
+
+关闭了验证码
+
+替okminer优化连不进来的矿机（无法连接okminer的矿机，可通过rust接入okminer）
+
+增加钱包黑名单功能
+
+优化了由于矿池网络波动导致算力计算偏差的bug（此前触发概率极低）
+
+优化了RVN算法相关逻辑
+
+[RMS 1.0.0] RMS更新
+
+开放RMS连接池模式 
+
+[!!!注意：连接池模式需要对应接入的rust服务端版本 >= 3.8.0]
+
+(
+如需使用rms公网连接数压缩功能, 请在rms客户端右上角设置里选择切换模式,
+然后选择连接池, 设置最大连接数。 
+
+以下为压缩率计算公式：
+   
+压缩率 = 接入矿机数量 / 最大连接数
+
+压缩率不要太高, 最大连接数设置的越大，硬件负载越小
+通常3-5倍的压缩率即可, 根据rms所在设备以及服务器硬件情况自行斟酌
+
+此处压缩的是rms至服务器中间的公网tcp数量, 并非简单的矿机合并
+)
+
+rms 增加密码配置, 右上角设置内可设置rms的访问账号密码
+
+rms 增加手动模式, 可自己添加指定rms协议的服务器ip+端口
+
+   3.7.3
+   增加是否强制下发成功份额开关
+
+   修复etc抽水算力显示和矿池不一致问题（纯显示问题）
+
+   修复gtv66两个地方展示的算力是以p为单位的问题（纯显示问题）
+
+   3.7.2
+   优化gtv66和e9pro全批次不同固件的机型，现在这两类机型都可以跑同一个端口并且解决掉了相关的无效以及相关的所有BUG
+
+   解禁了DNX抽水限制, 但是目前不要抽水，因为官方以及矿池并未按照公布时间进行解除验证, 等后续矿池公告以后再开启抽水
+
+   3.7.1
+   性能优化, 大幅提高硬件利用率,  降低内存以及cpu的占用
+
+   大幅提升设备接入速度
+
+   优化性能监控，更准确的内存以及cpu统计
+
 3.7.3
 增加是否强制下发成功份额开关
 
@@ -699,7 +762,7 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
    <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
 
-   <p>&emsp;&emsp;<a href="https://github.com/CakeSystem/CakeSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
+   <p>&emsp;&emsp;<a href="https://github.com/viporminer/viporminer/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
 
    </td>
    </tr>
@@ -719,7 +782,7 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.7.3-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.8.0-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
