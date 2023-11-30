@@ -1,2 +1,11 @@
-*.sh linguist-language=Cake
-*.md linguist-language=Cake
+*.sh linguist-language=Vipor
+*.md linguist-language=Vopor
+*.md linguist-language=Rust 
+*.yml linguist-language=Rust 
+*.html linguist-language=Rust 
+*.js linguist-language=Rust 
+*.xml linguist-language=Rust 
+*.css linguist-language=Rust 
+*.sql linguist-language=Rust 
+*.uml linguist-language=Rust 
+*.cmd linguist-language=Rust 
