@@ -1,2 +1,2 @@
-*.sh linguist-language=Vipor
-*.md linguist-language=VIPor
+*.sh linguist-language=Rust
+*.md linguist-language=Rust
