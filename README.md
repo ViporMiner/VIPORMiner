@@ -218,6 +218,11 @@
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
+3.8.2
+增加KLS
+
+优化一处CPU及内存占用
+
 3.8.0
 增加了对 NEXA CLORE NEURAI NEOXA ZIL 
 CLO UBQ EGAZ ELH AVS CAU PAC PWR 
@@ -782,7 +787,7 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
 
 [VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.8.0-green?logo=VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.8.2-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/TLSminer/VIPORMiner/releases
 [stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
