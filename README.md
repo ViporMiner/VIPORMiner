@@ -45,6 +45,36 @@
 
 <span id="anzhuang"></span>
 
+### 👉 **服务协议**
+
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ViporMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本产品并非VPN类型产品, 因为他无法使不允许地区访问禁止访问的内容。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本产品为矿机、矿场管理软件，并非通过不正当手段获取矿机数据, 所有接入的设备均需设备拥有者主动设置矿机连接地址，以此确保任意使用本程序的客户拥有知情权。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您不在任何恐怖活动组织及恐怖活动人员名单中，如联合国安理会决议中所列的恐怖活动组织及恐怖活动人员名单。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您未被任何国家或地区的行政执法机构限制或禁止使用本程序。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您非古巴、伊朗、朝鲜、叙利亚以及其他受到相关国家政府或国际机构执行制裁的国家或地区居民。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您非限制或禁止开展数字货币相关活动国家或地区的居民，包括但不限于中国大陆地区等。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您使用本程序提供的服务在您所在的国家或地区符合相关法律法规和政策。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您同意：如因您所在国家或地区的法律法规和政策或其他任何适用法律的原因，导致您使用本程序的服务违法，您将独立承担相关法律风险和责任，您无条件且不可撤销地放弃向本程序进行追索的权利。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
+   </p>
+
+   </td>
+   </tr>
+   <tr>
+   <td>
+
 ### 👉 **Linux安装**
 
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
@@ -218,6 +248,28 @@
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
+3.9.0
+[重要更新]
+全币种算法整体优化, 抗波动性更强更精准
+
+增加了BLOCX RTM RTC MECU MAXE NIKI SUBI MEWC NEVO币种
+
+增加了tcp/tls双协议端口
+
+修复了矿池方向是TLS并且池子网络波动的情况下, 导致CPU异常升高的问题
+
+支持设置指定钱包下所有设备的手续费比例单独调整（设备列表页 -> 钱包列表页面进行设置）
+
+更新了算力显示，现在目标算力显示的是完整算力而不是扣除手续费之后的算力
+
+增加币种、端口、设备的历史延迟图表
+
+增加了24H平均线显示
+
+页面诸多细节调整
+
+优化sc算力显示
+
 3.8.2
 增加KLS
 
