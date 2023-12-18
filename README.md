@@ -250,6 +250,17 @@
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
+3.9.1
+增加BEL
+
+修复了BLOCX无法在Mining-Dutch矿池工作的bug
+
+创建端口时，币种选择器改为可搜索，方便使用
+
+均线图表现在跟随小时平均组件设置显示
+
+修复了一处接口报错
+
 3.9.0
 [重要更新]
 全币种算法整体优化, 抗波动性更强更精准
@@ -840,10 +851,10 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
 
 
-[VIPORMiner.io]: https://github.com/TLSminer/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.0-green?logo=VIPORMiner
+[VIPORMiner.io]: https://github.com/ViporMiner/VIPORMiner
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.1-green?logo=VIPORMiner
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/TLSminer/VIPORMiner/releases
-[stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
-[stars-shield]: https://img.shields.io/github/stars/TLSminer/VIPORMiner.svg?style=flat
-[stars-url]: https://github.com/TLSminer/VIPORMiner/stargazers
+[releases]: https://github.com/ViporMiner/VIPORMiner/releases
+[stars-url]: https://github.com/ViporMiner/VIPORMiner/stargazers
+[stars-shield]: https://img.shields.io/github/stars/ViporMiner/VIPORMiner.svg?style=flat
+[stars-url]: https://github.com/ViporMiner/VIPORMiner/stargazers
