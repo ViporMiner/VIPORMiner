@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.0"
+VERSION="3.9.1"
 DOWNLOAD_HOST="https://github.com/viporminer/viporminer/raw/main/linux/arm"
 ORIGIN_EXEC="viporminersystem-${VERSION}"
 
