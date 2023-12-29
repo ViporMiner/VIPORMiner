@@ -164,9 +164,10 @@
 ```text
   算法                支持的币种
   SHA256              BTC、BCH        
-  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL
-  SCRYPT              LTC
-  KHEAVYHASH          KASPA
+  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL、CLORE、NEURAI、NEOXA、ZIL、CLO、UBQ、EGAZ、ELH、AVS、CAU、PAC、PWR、BTN、DUBX、XPB、REDEV2、RTH、DOGETHER
+  SCRYPT              LTC、BEL
+  KHEAVYHASH          KASPA、PYI
+  KARLSENHASH         KLS
   BLAKE2S             KDA
   BLAKE2B             SC、HNS
   OCTOPUS             CFX
@@ -174,13 +175,15 @@
   EAGLESONG           CKB
   EQUIHASH            ZEN、ZEC
   LBRY                LBC
-  X11                 DASH
+  X11                 DASH、BLOCX
   PROGPOW             SERO
-  BLAKE3              ALPH
-  RANDOMX             XMR、ZEPH
-  KAWPOW              RVN
+  BLAKE3              ALPH、IRON
+  RANDOMX             XMR、ZEPH、NEVO
+  KAWPOW              RVN、MEWC
   SHA512256D          RXD
   AUTOYKOS2           ERG                
+  NEXAPOW             NEXA
+  GHOSTRIDER          RTM、RTC、MECU、MAXE、NIKI、SUBI、NEVO             
 ```
 
 
