@@ -377,6 +377,7 @@ ISSUE() {
     echo "3.9.1"
     echo "3.9.2"
     echo "3.9.3"
+    echo "3.9.4"
 }
 
 filterResult() {
