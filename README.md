@@ -253,6 +253,15 @@
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
+3.9.4
+修复TTS双协议端口监听消失的BUG
+
+优化心跳包检测逻辑, 避免了极端情况下少量连接留存的问题, 程序更稳定
+
+优化矿池方向高延迟以及异常情况下带来的负面影响
+
+增加AIPG
+
 3.9.3
 增加IRON
 
@@ -867,7 +876,7 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
 
 [VIPORMiner.io]: https://github.com/ViporMiner/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.3-green?logo=Rust
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.4-green?logo=Rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/ViporMiner/VIPORMiner/releases
 [stars-url]: https://github.com/ViporMiner/VIPORMiner/stargazers
