@@ -198,6 +198,7 @@
 
 <p>&emsp;&emsp;QQ群：279505847
 
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/ViproMinerSystem</a></p>
 
 <!-- <p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p> -->
 
