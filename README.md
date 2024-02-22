@@ -901,7 +901,7 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
 
 [VIPORMiner.io]: https://github.com/ViporMiner/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.4-green?logo=Rust
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.6-green?logo=Rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/ViporMiner/VIPORMiner/releases
 [stars-url]: https://github.com/ViporMiner/VIPORMiner/stargazers
