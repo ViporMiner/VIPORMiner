@@ -183,7 +183,8 @@
   SHA512256D          RXD
   AUTOYKOS2           ERG                
   NEXAPOW             NEXA
-  GHOSTRIDER          RTM、RTC、MECU、MAXE、NIKI、SUBI、NEVO             
+  GHOSTRIDER          RTM、RTC、MECU、MAXE、NIKI、SUBI、NEVO
+  CUCKATOO32          GRIN       
 ```
 
 
