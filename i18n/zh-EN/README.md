@@ -133,34 +133,34 @@
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./image/icon-btc.png" alt="Logo" width="25">
-<img src="./image/icon-bch.png" alt="Logo" width="25">
-<img src="./image/icon-etc.png" alt="Logo" width="25">
-<img src="./image/icon-ethw.png" alt="Logo" width="25">
-<img src="./image/icon-ethf.png" alt="Logo" width="25">
-<img src="./image/icon-octa.png" alt="Logo" width="25">
-<img src="./image/icon-etc+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ethw+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ethf+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ltc.png" alt="Logo" width="25">
-<img src="./image/icon-kaspa.png" alt="Logo" width="25">
-<img src="./image/icon-kda.png" alt="Logo" width="25">
-<img src="./image/icon-sc.png" alt="Logo" width="25">
-<img src="./image/icon-hns.png" alt="Logo" width="25">
-<img src="./image/icon-cfx.png" alt="Logo" width="25">
-<img src="./image/icon-dnx.png" alt="Logo" width="25">
-<img src="./image/icon-ckb.png" alt="Logo" width="25">
-<img src="./image/icon-zen.png" alt="Logo" width="25">
-<img src="./image/icon-zec.png" alt="Logo" width="25">
-<img src="./image/icon-lbc.png" alt="Logo" width="25">
-<img src="./image/icon-dash.png" alt="Logo" width="25">
-<img src="./image/icon-sero.png" alt="Logo" width="25">
-<img src="./image/icon-alph.png" alt="Logo" width="25">
-<img src="./image/icon-xmr.png" alt="Logo" width="25">
-<img src="./image/icon-zeph.png" alt="Logo" width="25">
-<img src="./image/icon-rvn.png" alt="Logo" height="25">
-<img src="./image/icon-rxd.png" alt="Logo" width="25">
-<img src="./image/icon-erg.png" alt="Logo" width="25">
+<img src="/image/icon-btc.png" alt="Logo" width="25">
+<img src="/image/icon-bch.png" alt="Logo" width="25">
+<img src="/image/icon-etc.png" alt="Logo" width="25">
+<img src="/image/icon-ethw.png" alt="Logo" width="25">
+<img src="/image/icon-ethf.png" alt="Logo" width="25">
+<img src="/image/icon-octa.png" alt="Logo" width="25">
+<img src="/image/icon-etc+zil.png" alt="Logo" height="25">
+<img src="/image/icon-ethw+zil.png" alt="Logo" height="25">
+<img src="/image/icon-ethf+zil.png" alt="Logo" height="25">
+<img src="/image/icon-ltc.png" alt="Logo" width="25">
+<img src="/image/icon-kaspa.png" alt="Logo" width="25">
+<img src="/image/icon-kda.png" alt="Logo" width="25">
+<img src="/image/icon-sc.png" alt="Logo" width="25">
+<img src="/image/icon-hns.png" alt="Logo" width="25">
+<img src="/image/icon-cfx.png" alt="Logo" width="25">
+<img src="/image/icon-dnx.png" alt="Logo" width="25">
+<img src="/image/icon-ckb.png" alt="Logo" width="25">
+<img src="/image/icon-zen.png" alt="Logo" width="25">
+<img src="/image/icon-zec.png" alt="Logo" width="25">
+<img src="/image/icon-lbc.png" alt="Logo" width="25">
+<img src="/image/icon-dash.png" alt="Logo" width="25">
+<img src="/image/icon-sero.png" alt="Logo" width="25">
+<img src="/image/icon-alph.png" alt="Logo" width="25">
+<img src="/image/icon-xmr.png" alt="Logo" width="25">
+<img src="/image/icon-zeph.png" alt="Logo" width="25">
+<img src="/image/icon-rvn.png" alt="Logo" height="25">
+<img src="/image/icon-rxd.png" alt="Logo" width="25">
+<img src="/image/icon-erg.png" alt="Logo" width="25">
 </div>
 
 ```text
