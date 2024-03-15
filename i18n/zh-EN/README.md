@@ -233,6 +233,18 @@
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
+  3.9.8 Released
+
+  [Important Update] Added a secure access address, which can now be set through the menu - Set Secure Access Address. Setting this option can effectively prevent background scanning and prevent explosions
+
+  Optimizing ETC from 3.9.3 to 3.9.7 to address the issue of insufficient extraction
+
+  Complete Chinese, Russian, and English language packs
+
+  Added switch for optimizing old mining machines, which can be turned off by unnecessary users
+
+  Overall program stability improvement
+
    3.9.7
    Fixed bugs related to ZEPH.
    
