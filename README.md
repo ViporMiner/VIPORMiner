@@ -256,6 +256,17 @@
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
+3.9.8
+[重要更新] 增加安全访问地址，现在可以通过菜单 - 设置安全访问地址进行设置，设置此项可有效防止后台被扫描，防止爆破
+
+优化ETC 从3.9.3-3.9.7抽不够的问题
+
+完整的中文、俄语、英语语言包
+
+增加了老旧矿机优化的开关，不需要的用户可关闭
+
+程序整体稳定性提升
+
 3.9.7
 修复ZEPH相关BUG
    
@@ -909,7 +920,7 @@ e9pro完美优化, 且Cake内可计算出与矿池一致的算力
 
 
 [VIPORMiner.io]: https://github.com/ViporMiner/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.7-green?logo=Rust
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.8-green?logo=Rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/ViporMiner/VIPORMiner/releases
 [stars-url]: https://github.com/ViporMiner/VIPORMiner/stargazers
