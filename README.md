@@ -273,7 +273,8 @@
 
 ### 👉 **定制专属版本说明**
 
-   <p>&emsp;&emsp;1. 加入聊天群组 ：279505847
+   <p>&emsp;&emsp;1. 加入聊天群组QQ群 ：279505847
+   <p>&emsp;&emsp;Telegram：<a href="https://t.me/ViproMinerSystem">https://t.me/ViproMinerSystem</a></p>
    <p>&emsp;&emsp;2. 请整理以下格式数据发给群主或管理员：</p>
 
    ```text
