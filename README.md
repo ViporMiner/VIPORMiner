@@ -228,7 +228,7 @@
 <img src="/image/bitmain.webp" alt="Logo" width="100">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/7.png" alt="Logo" width="100">
+<img src="/image/hd_logo.png" alt="Logo" width="100">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/image/8.png" alt="Logo" width="100">
