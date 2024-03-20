@@ -77,8 +77,6 @@
    <tr>
    <td>
 
-### 👉 **视频安装教程**
-   <p>&emsp;&emsp;<a href="https://www.youtube.com/watch?v=wRyELletrMw">油管视频安装教程</a>
 
 ### 👉 **Linux安装**
 
