@@ -77,6 +77,9 @@
    <tr>
    <td>
 
+### 👉 **视频安装教程**
+   <p>&emsp;&emsp;<a href="https://www.youtube.com/watch?v=wRyELletrMw">油管视频安装教程</a>
+
 ### 👉 **Linux安装**
 
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
