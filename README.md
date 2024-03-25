@@ -226,9 +226,6 @@
 <img src="/image/6.png" alt="Logo" width="100">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/bitmain.webp" alt="Logo" width="100">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/image/hd_logo.png" alt="Logo" width="100">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
