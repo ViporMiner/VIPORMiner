@@ -328,7 +328,7 @@
 
 
 [VIPORMiner.io]: https://github.com/ViporMiner/VIPORMiner
-[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.93-green?logo=Rust
+[VIPORMiner.io-badge]: https://img.shields.io/badge/VIPORMiner-v3.9.94-green?logo=Rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/ViporMiner/VIPORMiner/releases
 [stars-url]: https://github.com/ViporMiner/VIPORMiner/stargazers
