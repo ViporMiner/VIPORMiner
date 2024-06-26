@@ -2,10 +2,7 @@
 
 <div align="center">
 
-<img src="./image/logo.gif" alt="Logo" width="170">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F76322&center=true&vCenter=true&width=435&lines=ViporMinerSystem)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%E5%9F%BA%E4%BA%8ERust%E6%89%93%E9%80%A0%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%9A%84MinerProxy)](https://git.io/typing-svg)
+# <img src="./image/logo.gif" alt="Logo" width="24">VIPORMINERSYSTEM
 
 <img src="./image/1.png" alt="Logo">
 
@@ -268,65 +265,10 @@
 ### 👉 **定制专属版本说明**
 
    <p>&emsp;&emsp;1. 加入聊天群组QQ群 ：279505847
+      
    <p>&emsp;&emsp;Telegram：<a href="https://t.me/ViproMinerSystem">https://t.me/ViproMinerSystem</a></p>
-   <p>&emsp;&emsp;2. 请整理以下格式数据发给群主或管理员：</p>
-
-   ```text
-      示例：
-
-      软件名称
-
-      项目地址
-
-      logo及简介
-
-      —————————————————
-
-      币种: BTC,
-
-      内置手续费比例: 百分之1
-
-      内置匿名钱包： xxxxxxxxxxxxxx
-
-      内置子账号: xxxxxxxxxxxx
-
-      矿池内显示设备名称: xxxxx
-
-      —————————————————
-
-      币种: ETC
-
-      内置手续费比例: 百分之1
-
-      内置匿名钱包： xxxxxxxxxxxxxx
-
-      内置子账号: xxxxxxxxxxxx
-
-      矿池内显示设备名称: xxxxx
-
-      —————————————————
-
-      币种: ETC+ZIL
-
-      内置手续费比例: 百分之1
-
-      内置匿名钱包： etc匿名钱包.zil匿名钱包
-
-      内置子账号: xxxxxxxxxxxx
-
-      矿池内显示设备名称: xxxxx
-
-      —————————————————
-
-      ......
-
-      内置手续费矿池地址默认与软件内目标地址一致, 手续费会抽至端口的目标矿池地址, 
-      每个币种需要提供一个匿名钱包和一个子账号,  
-      类似BTC这种不支持匿名挖矿的矿池, 只提供子账号即可, 
-      以确保在任意支持类型的矿池中可以正常工作, 也可指定矿池跨池抽水。
-
-      如果不会自己制作安装链接，项目首页等，可联系群主或管理员进行免费托管服务
-   ```
+   
+   <p>&emsp;&emsp;2. 联系群主或管理员提供相关信息即可免费定制。</p>
 
    </td>
    </tr>
