@@ -4,7 +4,7 @@
 
 # <img src="./image/logo.gif" alt="Logo" width="24">VIPORMINERSYSTEM
 
-### <a href="https://www.vippool.cn/">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
+### <a href="https://www.vipor.top/">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
 <img src="./image/1.png" alt="Logo">
 
