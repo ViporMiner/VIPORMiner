@@ -187,6 +187,7 @@
   NEXAPOW             NEXA
   GHOSTRIDER          RTM、RTC、MECU、MAXE、NIKI、SUBI、NEVO
   CUCKATOO32          GRIN
+  ZKSNARK             ALEO
 ```
 
 
