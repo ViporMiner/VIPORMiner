@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.6.7"
+VERSION="5.0.0"
 DOWNLOAD_HOST="https://github.com/VIPORMiner/VIPORMiner/raw/main/linux"
 ORIGIN_EXEC="vipor-${VERSION}"
 
@@ -420,6 +420,7 @@ ISSUE() {
 	echo "4.6.3"
 	echo "4.6.5"
 	echo "4.6.7"
+	echo "5.0.0"
 }
 
 filterResult() {
