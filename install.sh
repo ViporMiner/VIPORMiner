@@ -424,6 +424,7 @@ ISSUE() {
 	echo "5.0.3"
 	echo "5.0.4"
 	echo "6.0.0"
+	echo "6.1.0"
 }
 
 filterResult() {
