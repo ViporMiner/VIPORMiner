@@ -95,10 +95,10 @@
 
    <p>&emsp;&emsp;ARM版本请使用以下命令进行安装</p>
    
-   &emsp;&emsp;ARM:
+   &emsp;&emsp;国内Linux安装:
 
    ```sh
-     bash <(curl -s -L https://raw.githubusercontent.com/ViporMiner/VIPORMiner/main/arm-install.sh)
+     bash <(curl -s -L -k https://vippool.cn/ViporMiner_install.sh)
    ```
 
    &emsp;&emsp;ARMV7:
