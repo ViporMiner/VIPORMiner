@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="6.4.3"
+VERSION="6.4.5"
 DOWNLOAD_HOST="https://github.com/VIPORMiner/VIPORMiner/raw/main/linux"
 ORIGIN_EXEC="vipor-${VERSION}"
 
