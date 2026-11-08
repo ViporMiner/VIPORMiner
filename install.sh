@@ -14,7 +14,8 @@ PROCESS_WAIT_STEPS_PER_SECOND=10
 PROCESS_WAIT_INTERVAL_SUPPORTED=""
 
 PATH_RUST="/root/${APP_ID}"
-PATH_EXEC="${APP_ID}"
+# The application expects its original executable name.
+PATH_EXEC="vipor"
 DOWNLOAD_EXEC_PREFIX="vipor"
 ORIGIN_EXEC="${DOWNLOAD_EXEC_PREFIX}-${VERSION}"
 CLI_EXEC_NAME="ViporMinerSystemCLI-0.1.0"
@@ -627,7 +628,18 @@ update() {
 
 
 check_process() {
-    pgrep -x "$1" >/dev/null 2>&1
+    local process_name="$1"
+
+    if pgrep -x "$process_name" >/dev/null 2>&1; then
+        return 0
+    fi
+
+    if [ -n "$PATH_RUST" ] && [ -n "$PATH_EXEC" ]; then
+        pgrep -f "^${PATH_RUST}/${PATH_EXEC}([[:space:]]|$)" >/dev/null 2>&1
+        return $?
+    fi
+
+    return 1
 }
 
 is_fast_process_wait_supported() {
@@ -1066,7 +1078,7 @@ start() {
 
         if is_systemd_available; then
             create_systemd_service
-            systemctl start "${SERVICE_NAME}.service"
+            systemctl restart "${SERVICE_NAME}.service"
         else
             nohup "$PATH_RUST/$PATH_EXEC" >> "$PATH_NOHUP" 2>> "$PATH_ERR" &
         fi
@@ -1160,7 +1172,7 @@ enable_autostart() {
     if is_systemd_available; then
         create_systemd_service
         systemctl enable "${SERVICE_NAME}.service"
-        systemctl start "${SERVICE_NAME}.service"
+        systemctl restart "${SERVICE_NAME}.service"
     else
         if [ ! -f /etc/rc.local ]; then
             printf "%s\n\n%s\n" "#!/bin/sh" "exit 0" > /etc/rc.local
