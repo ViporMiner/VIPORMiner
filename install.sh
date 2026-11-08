@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="6.4.5"
-DOWNLOAD_HOST="https://github.com/VIPORMiner/VIPORMiner/raw/main/linux"
+DOWNLOAD_HOST="https://vippool.cn/linux"
 ORIGIN_EXEC="vipor-${VERSION}"
 
 SERVICE_NAME="viporservice"
@@ -424,16 +424,6 @@ ISSUE() {
 	echo "5.0.3"
 	echo "5.0.4"
 	echo "6.0.0"
-	echo "6.1.0"
-	echo "6.2.0"
-	echo "6.3.0"
-	echo "6.3.1"
-	echo "6.3.2"
-	echo "6.4.0"
-	echo "6.4.1"
-	echo "6.4.2"
-    echo "6.4.3"
-	echo "6.4.5"
 }
 
 filterResult() {
