@@ -4,16 +4,19 @@ VERSION="6.4.5"
 
 # Customer customization: change this block for white-label builds.
 APP_NAME="ViporMinerSystem"
-APP_ID="viporminersystem"
+APP_ID="vipor"
 DOWNLOAD_HOST="https://github.com/ViporMiner/VIPORMiner/raw/main/linux"
 CLI_DOWNLOAD_URL="https://github.com/ViporMiner/VIPORMiner/raw/refs/heads/main/CLI/ViporMinerSystemCLI-0.1.0"
 
-SERVICE_NAME="viporminerservice"
+LEGACY_APP_ID="viporminersystem"
+LEGACY_SERVICE_NAME="viporminerservice"
+SERVICE_NAME="viporservice"
 PROCESS_WAIT_INTERVAL="0.1"
 PROCESS_WAIT_STEPS_PER_SECOND=10
 PROCESS_WAIT_INTERVAL_SUPPORTED=""
 
 PATH_RUST="/root/${APP_ID}"
+LEGACY_PATH_RUST="/root/${LEGACY_APP_ID}"
 # The application expects its original executable name.
 PATH_EXEC="vipor"
 DOWNLOAD_EXEC_PREFIX="vipor"
@@ -881,6 +884,32 @@ ensure_runtime_files() {
     chmod 640 "$PATH_NOHUP" "$PATH_ERR"
 }
 
+stop_legacy_service() {
+    local legacy_unit="/etc/systemd/system/${LEGACY_SERVICE_NAME}.service"
+
+    if is_systemd_available && [ -f "$legacy_unit" ]; then
+        systemctl disable --now "${LEGACY_SERVICE_NAME}.service" >/dev/null 2>&1 || true
+        rm -f -- "$legacy_unit"
+        systemctl daemon-reload >/dev/null 2>&1 || true
+    fi
+}
+
+migrate_legacy_runtime_data() {
+    local file
+
+    [ -d "$LEGACY_PATH_RUST" ] || return 0
+    [ -f "$PATH_CONFIG" ] && return 0
+
+    mkdir -p "$PATH_RUST"
+    chmod 755 "$PATH_RUST"
+
+    for file in rust-config cue 0.d1 0.d1-shm 0.d1-wal; do
+        if [ -e "${LEGACY_PATH_RUST}/${file}" ] && [ ! -e "${PATH_RUST}/${file}" ]; then
+            cp -a -- "${LEGACY_PATH_RUST}/${file}" "$PATH_RUST/"
+        fi
+    done
+}
+
 create_systemd_service() {
     ensure_runtime_files
 
@@ -1068,6 +1097,8 @@ start() {
     # set_https
 
     echo "${msg_starting}..."
+    stop_legacy_service
+    migrate_legacy_runtime_data
     check_process $PATH_EXEC
 
     if [ $? -eq 0 ]; then
@@ -1295,6 +1326,8 @@ installapp() {
 
     echo "${msg_install_start}${ORIGIN_EXEC}"
 
+    stop_legacy_service
+    migrate_legacy_runtime_data
     disable_firewall
 
     check_process $PATH_EXEC
