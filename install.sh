@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="6.4.5"
-DOWNLOAD_HOST="https://vippool.cn/linux"
+DOWNLOAD_HOST="https://github.com/VIPORMiner/VIPORMiner/raw/main/linux"
 ORIGIN_EXEC="vipor-${VERSION}"
 
 SERVICE_NAME="viporservice"
